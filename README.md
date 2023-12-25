@@ -48,20 +48,12 @@
 
 
 
-## My Certifications 🏅
-
-<p align="left">
-  <a href="https://www.credly.com/badges/99605a74-4012-4bcd-aeb5-1f0a6110ec40/public_url"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/7833f995-d195-43cf-a6a9-5430698d6669/public_url"><img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120" height="117"></a>
-  <a href="https://www.credly.com/badges/fad4e5b3-1671-4895-a7fd-8fb895ca2f7a/public_url"><img src="https://images.credly.com/size/680x680/images/32d83697-6930-4fc2-9d49-c24bec87e90f/image.png" width="117" height="117"></a>
-  <a href="https://www.credly.com/badges/6364e2cc-d67a-4560-acad-5b0397ff432b/public_url"><img src="https://images.credly.com/size/220x220/images/cebc60ca-5f7b-410d-b0b2-ff1f71bd6b96/image.png" width="125" height="125"></a>
-</p>
-
-
 
 ## Profile Views 👀
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=pratikkumar-mohite&icon=0&color=9)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SwapnilM24&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 
 ## Contributions 📁
 1. If you believe that any of my repositories could be improved, please file an issue or contact me via email.📧📧
