@@ -8,9 +8,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Swapnil%20Mohite;A%20Software%20Engineer;4.10%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" />
   
 </a>
+
 </p>
 <br>
+<br>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</br>
+
 ## About Me 💫
 - 🔭 I am currently working on DevOps projects.
 - 👯 I'm looking to work on DevOps projects with others.
