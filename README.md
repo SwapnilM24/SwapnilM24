@@ -39,16 +39,9 @@
 
 ## Activities 👨‍💻
 <details>
-  <summary>📁 Projects </summary>
-  <p align="left">
-<a href="https://github.com/pratikkumar-mohite/kubesd"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pratikkumar-mohite&repo=kubesd&theme=vue-dark&hide_border=false&icon_color=F8D866&show_icons=true" alt=""></a>
-  </p>
-</details>
-<details>
   <summary>📕 Blogs </summary>
+  - [DEV Community](https://dev.to/swapi123)
 
-  - [GitOps fundamentals with Codefresh](https://medium.com/@DotSlashMohite/gitops-fundamentals-with-codefresh-f2500a5e4ff4)
-  - [Foundation for Istio by solo.io](https://medium.com/@DotSlashMohite/foundation-for-istio-by-solo-io-a6a0ebc11669)
 </details>
 
 
