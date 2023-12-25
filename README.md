@@ -17,8 +17,8 @@
 
 
 ## Socials 🌐
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-m-2424sm/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnil71244217?t=CgZcmLaqzGF9KSxb-uPJCQ&s=09)
+<a href="https://www.linkedin.com/in/swapnil-m-2424sm/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" 
+<a href="https://x.com/Swapnil71244217?t=CgZcmLaqzGF9KSxb-uPJCQ&s=09" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="http://instagram.com/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://dev.to/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="45" /></a>
 <a href="https://www.linkedin.com/in/swapnil-m-2424sm/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
