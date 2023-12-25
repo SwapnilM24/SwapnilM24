@@ -17,7 +17,7 @@
 
 
 ## Socials 🌐
-<a href="https://www.linkedin.com/in/swapnil-m-2424sm/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" 
+<a href="https://www.linkedin.com/in/swapnil-m-2424sm/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="https://x.com/Swapnil71244217?t=CgZcmLaqzGF9KSxb-uPJCQ&s=09" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="http://instagram.com/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://dev.to/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="45" /></a>
