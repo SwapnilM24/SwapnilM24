@@ -6,11 +6,11 @@
 <p align="center">
   <a href="https://github.com/swapnil-mohite">
     <img src="https://readme-typing-svg.demolab.com/?lines=Swapnil%20Mohite;A%20Software%20Engineer;4.10%2B%20Years%20of%20%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" />
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </a>
 </p>
 <br>
-
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 ## About Me 💫
 - 🔭 I am currently working on DevOps projects.
 - 👯 I'm looking to work on DevOps projects with others.
@@ -49,7 +49,7 @@
 </details>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SwapnilM24&theme=dark" alt="GitHub Streak" /></a>
+
 
 ## Contributions 📁
 1. If you believe that any of my repositories could be improved, please file an issue or contact me via email.📧📧
