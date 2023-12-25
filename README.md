@@ -35,7 +35,12 @@
 </p>
 
 
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="vscode" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="bash" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="php" width="45" height="45"/>
+</p>
 
 ## Activities 👨‍💻
 <details>
