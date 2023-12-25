@@ -21,7 +21,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnil71244217?t=CgZcmLaqzGF9KSxb-uPJCQ&s=09)
 [![Dev Community1](#0A0A0A)(https://dev.to/swapi123)
 ![Dev Community](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
+<a href="https://dev.to/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/swapi123)
 
 
