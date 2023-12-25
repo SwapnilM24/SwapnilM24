@@ -51,9 +51,7 @@
 
 ## Profile Views 👀
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SwapnilM24&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=SwapnilM24&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## Contributions 📁
 1. If you believe that any of my repositories could be improved, please file an issue or contact me via email.📧📧
