@@ -19,7 +19,7 @@
 ## Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-m-2424sm/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnil71244217?t=CgZcmLaqzGF9KSxb-uPJCQ&s=09)
-[![Dev Community](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/swapi123)(https://dev.to/swapi123)
+[![Dev Community](https://dev.to/swapi123)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/swapi123)
 
 
