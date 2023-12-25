@@ -22,6 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/swapi123)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/swapi123)
 <a href="https://dev.to/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="45" /></a>
+<a href="http://instagram.com/swapi123" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
 
 
