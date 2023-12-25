@@ -12,7 +12,9 @@
 </p>
 <br>
 <br>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
+</div>
 </br>
 
 ## About Me 💫
