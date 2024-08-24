@@ -1,93 +1,78 @@
-# 👋 Hello, I'm [Your Name]!
+<!-- Centered Banner Image -->
+<p align="center">
+  <a href="https://github.com/swapnil-mohite">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Swapnil%20Mohite;A%20Cloud%20Engineer;4.10%2B%20Years%20of%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] with expertise in [Your Key Skills]. I thrive on creating automated solutions and optimizing workflows.
+<!-- Centered GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
+</div>
 
-## 🚀 About Me
+## About Me 💫
+- 🔭 Currently working on DevOps projects.
+- 👯 Seeking collaboration on DevOps projects.
+- 💬 Ask me about DevOps and Cloud technology.
+- 📫 Reach out to me at [mohite24.sm@gmail.com](mailto:mohite24.sm@gmail.com).
 
-- 🔭 I’m currently working on [Your Current Project or Focus].
-- 🌱 I’m learning [New Skills or Technologies You're Exploring].
-- 👯 I’m looking to collaborate on [Types of Projects or Technologies You're Interested In].
-- 🤔 I’m looking for help with [Any Challenges You're Facing or Areas Where You Need Advice].
-- 💬 Ask me about [Topics You’re Knowledgeable About or Passionate About].
-- 📫 How to reach me: [Your Contact Information or Preferred Method of Contact].
-- ⚡ Fun fact: [A Fun Fact About You].
+## Socials 🌐
+<p align="center">
+  <a href="https://www.linkedin.com/in/swapnil-m-2424sm/" target="blank">
+    <img src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://x.com/Swapnil71244217?t=CgZcmLaqzGF9KSxb-uPJCQ&s=09" target="blank">
+    <img src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="Twitter" height="30" />
+  </a>
+  <a href="http://instagram.com/swapi123" target="blank">
+    <img src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="Instagram" height="30" />
+  </a>
+  <a href="https://dev.to/swapi123" target="blank">
+    <img src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="DEV" height="45" />
+  </a>
+</p>
 
-## 🔧 Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Here are some of the tools and technologies I’m familiar with:
+<p align="center">
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/>
+  <img width="45" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
+</p>
 
-- **Programming Languages:** [Languages]
-- **Web Technologies:** [Web Technologies]
-- **DevOps & CI/CD:** [DevOps Tools]
-- **Cloud Platforms:** [Cloud Platforms]
-- **Databases:** [Databases]
-- **Other Tools:** [Other Tools]
+## 📝 Blogs
 
-## 🌟 Projects
+- [DEV Community](https://dev.to/swapi123)
 
-Here are some of the projects I’m most proud of:
+## 🔥 GitHub Streak Stats
 
-### [Project 1](LinkToProject1)
-Brief description of Project 1.
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SwapnilM24&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
-### [Project 2](LinkToProject2)
-Brief description of Project 2.
+## Contributions 📁
 
-### [Project 3](LinkToProject3)
-Brief description of Project 3.
+1. If you believe any of my repositories could be improved, please file an issue or contact me via email. 📧
+2. If you resolve any issues, please open a Pull Request (P.R.), and if it adds value, I will certainly merge it. 🔗
+3. Please avoid spamming. ❌
 
-Feel free to explore my repositories to see more of what I’ve been working on!
+## Contact Me 📬
 
-## 📈 GitHub Stats
+- Email: [mohite24.sm@gmail.com](mailto:mohite24.sm@gmail.com)
+- Visit my [Linkfree](https://linkfree.eddiejaoude.io/swapnil-mohite) profile for more connections.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+## 📊 GitHub Contributions Snake
 
-## 🚀 Automated GitHub Actions
-
-Here’s a glimpse of my automated workflows:
-
-- ![GitHub Actions Status](https://img.shields.io/github/workflow/status/YourGitHubUsername/YourRepo/CI?style=flat&label=CI)
-- ![Code Quality](https://img.shields.io/github/workflow/status/YourGitHubUsername/YourRepo/Lint?style=flat&label=Lint)
-- ![Coverage](https://img.shields.io/codecov/c/github/YourGitHubUsername/YourRepo?style=flat&label=Coverage)
-
-## 🏆 Achievements
-
-- [Achievement 1](LinkToAchievement1)
-- [Achievement 2](LinkToAchievement2)
-
-## 📝 Blog Posts
-
-Here are some of my latest blog posts:
-
-- [Blog Post 1](LinkToBlogPost1)
-- [Blog Post 2](LinkToBlogPost2)
-
-## 📚 Learning & Growth
-
-Currently learning:
-
-- [Learning Topic 1](LinkToResource1)
-- [Learning Topic 2](LinkToResource2)
-
-## 🤝 Connect with Me
-
-- [LinkedIn](YourLinkedInProfile)
-- [Twitter](YourTwitterProfile)
-- [Website/Blog](YourWebsiteOrBlog)
-
-Thank you for visiting my profile! 🌟
-
-## 📊 Dynamic Metrics
-
-I use [Shield.io](https://shields.io/) to display dynamic badges:
-
-- ![Open Issues](https://img.shields.io/github/issues/YourGitHubUsername/YourRepo?style=flat&label=Open%20Issues)
-- ![Contributors](https://img.shields.io/github/contributors/YourGitHubUsername/YourRepo?style=flat&label=Contributors)
-
-## 🛠️ Automation Showcase
-
-Here’s a quick look at some of my automation projects:
-
-- [Automation Project 1](LinkToAutomationProject1) – Description
-- [Automation Project 2](LinkToAutomationProject2) – Description
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
