@@ -65,7 +65,8 @@
 ## Contact Me 📬
 
 - Email: [mohite24.sm@gmail.com](mailto:mohite24.sm@gmail.com)
-- Visit my [Linkfree](https://linkfree.eddiejaoude.io/swapnil-mohite) profile for more connections.
+- Visit my [linkedin](https://www.linkedin.com/in/swapnil-m-2424sm/) profile for more connections.
+- [Dev Community](https://dev.to/swapi123)
 
 ## 📊 GitHub Contributions Snake
 
