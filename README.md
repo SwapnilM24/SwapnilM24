@@ -1,7 +1,7 @@
 <!-- Centered Banner Image -->
 <p align="center">
   <a href="https://github.com/swapnil-mohite">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Swapnil%20Mohite;A%20Cloud%20Engineer;6+%2B%20Years%20of%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Swapnil%20Mohite;A%20Cloud%20Engineer;7+%2B%20Years%20of%20Experience;Cloud%20and%20Container%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00ace6&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
